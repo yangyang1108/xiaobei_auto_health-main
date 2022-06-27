@@ -23,7 +23,7 @@ headers = {
 
 #  写个湖南的位置
 health_parameter = {
-    "temperature": "36.5",
+    "temperature": "36.2",
     "coordinates": "undefined-湖南省-长沙市-望城区",
     "location": "109.0933452690972,34.5336865234375",
     "healthState": "1",
